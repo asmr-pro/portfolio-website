@@ -19,31 +19,15 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
-        </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
-      </p>
+        Welcome to my portfolio! I'm Mustafa Munib, a passionate full-stack developer with a Bachelor's degree in Computer Science from KEU, Kabul. My journey in the world of technology began with a curiosity for coding, which eventually led me to pursue formal education in the field.
 
-      <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
-      </p>
+During my time at KEU, I immersed myself in various aspects of computer science, gaining a solid foundation in both theoretical concepts and practical applications. From algorithms and data structures to web development and software engineering, I embraced every opportunity to expand my knowledge and hone my skills.
+
+Since graduating in 2023, I've been dedicated to pushing the boundaries of what's possible in the digital realm. As a full-stack developer, I thrive on the challenge of creating seamless user experiences across the entire stack, from front-end interfaces to back-end systems. Whether I'm crafting elegant code or collaborating with cross-functional teams, my goal is always the same: to deliver innovative solutions that make a meaningful impact.
+
+Beyond my technical expertise, I bring a proactive mindset and a strong commitment to continuous learning. I'm constantly exploring new technologies and staying abreast of industry trends, ensuring that I remain at the forefront of innovation.
+
+I'm excited to share my journey and showcase the projects that reflect my passion for technology and my dedication to excellence. Thank you for visiting, and I look forward to connecting with you!      </p>
     </motion.section>
   );
 }
